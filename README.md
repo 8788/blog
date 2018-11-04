@@ -1,0 +1,1 @@
+博客迁移到GitHub，采用issues方式发布
