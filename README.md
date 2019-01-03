@@ -1,6 +1,10 @@
 博客迁移到GitHub，采用issues方式发布
 
-## 历史文章归档
+## Packages
+- [cheerio-webpack-plugin](https://npmjs.org/package/cheerio-webpack-plugin) ![version](https://img.shields.io/npm/v/cheerio-webpack-plugin.svg?style=flat-square)
+- [vue-date-picker](https://www.npmjs.com/package/vue-date-picker) ![version](https://img.shields.io/npm/v/vue-date-picker.svg?style=flat-square)
+
+## 文章归档
 - [使用compass自动合并css雪碧图(css sprite)](https://github.com/8788/blog/issues/8)
 - [国内优秀npm镜像推荐及使用](https://github.com/8788/blog/issues/7)
 - [常见javascript hack解释](https://github.com/8788/blog/issues/6)
