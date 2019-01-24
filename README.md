@@ -1,8 +1,15 @@
 博客迁移到GitHub，采用issues方式发布
 
 ## Packages
-- [cheerio-webpack-plugin](https://www.npmjs.com/package/cheerio-webpack-plugin)
 - [vue-date-picker](https://www.npmjs.com/package/vue-date-picker)
+- [cheerio-webpack-plugin](https://www.npmjs.com/package/cheerio-webpack-plugin)
+
+## 项目归档
+- [webpack demos](https://github.com/8788/webpack-demos)
+- [前端实验室](https://8788.github.io/lab/)
+- [2048游戏](https://8788.github.io/2048/)
+- [像素鸟游戏](https://8788.github.io/flappy-bird/)
+- [hexo博客主题](https://github.com/8788/hexo-diy-strict)
 
 ## 文章归档
 - [使用compass自动合并css雪碧图(css sprite)](https://github.com/8788/blog/issues/8)
