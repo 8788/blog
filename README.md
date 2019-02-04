@@ -5,6 +5,7 @@
 - [cheerio-webpack-plugin](https://www.npmjs.com/package/cheerio-webpack-plugin)
 
 ## 项目归档
+- [web performance extension](https://github.com/8788/web-performance-extension)
 - [webpack demos](https://github.com/8788/webpack-demos)
 - [前端实验室](https://8788.github.io/lab/)
 - [2048游戏](https://8788.github.io/2048/)
